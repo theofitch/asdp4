@@ -3,7 +3,7 @@ clear
 %channel 1:nothing
 %channel 2:square wave 261Hz
 %channel 3:time signal
-
+%test2
 %importing the data-------------------------------------------------------
 
 %testhigh.dat
